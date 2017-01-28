@@ -8,3 +8,6 @@
 
 # ignore all swap files
 *.swp
+
+# ignore ipython checkpoints
+.ipynb_checkpoints
